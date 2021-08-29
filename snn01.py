@@ -1,4 +1,1 @@
-print(11)
-
-
-print("snn")
+print(12345)
