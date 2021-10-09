@@ -2,7 +2,7 @@ import numpy as np
 
 
 
-class LIFNeuron():
+class LIF():
     def __init__(self, neuron_label = "LIF", debug=True):
         # Simulation config (may not all be needed!!)
         self.dt = 0.125  # simulation time step

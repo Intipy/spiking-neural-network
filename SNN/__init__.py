@@ -1,5 +1,5 @@
 __all__ = ['neuron',
-           'graph',
+           'plot',
            'model']
 
 
